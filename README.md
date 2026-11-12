@@ -1,2 +1,0 @@
-# .github
-Profil organizacji Zbiorkomapa
